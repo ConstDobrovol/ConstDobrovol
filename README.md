@@ -6,7 +6,7 @@ Junior Backend developer Python
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [constantin.dobrovol@mail.ru](mailto:constantin.dobrovol@mail.ru)
-* 🧠  I'm learning Django, SQL, C , BASH, FastAPI
+* 🧠  I'm learning Django, SQL, C, BASH, FastAPI
 
 <a href="https://www.github.com/ConstDobrovol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ConstDobrovol?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
