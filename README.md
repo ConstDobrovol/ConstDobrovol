@@ -1,7 +1,7 @@
 Hi 👋 My name is Konstantin Dobrovolskiy
 ========================================
 
-Backend developer Python from Russia
+Junior Backend developer Python
 ------------------------------------
 
 * 🌍  I'm based in Moscow
