@@ -1,12 +1,14 @@
 Hi 👋 My name is Konstantin Dobrovolskiy
 ========================================
 
-Junior Backend developer Python
+Backend developer Python from Russia
 ------------------------------------
+
+I’m studying as a Software Engineer and contributing to frontend and backend for building web applications. In my free time I exploring new technical, I solve problems on Codewars and read tech articles.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [constantin.dobrovol@mail.ru](mailto:constantin.dobrovol@mail.ru)
-* 🧠  I'm learning Django, SQL, C, BASH, FastAPI
+* 🧠  I'm learning Django, SQL, C , BASH, FastAPI
 
 <a href="https://www.github.com/ConstDobrovol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ConstDobrovol?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -28,4 +30,5 @@ src="https://img.shields.io/github/followers/ConstDobrovol?logo=github&style=for
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ConstDobrovol"><img src="https://github-readme-stats.vercel.app/api?username=ConstDobrovol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ConstDobrovol's GitHub stats" /></a>
+
 <a href="https://github.com/ConstDobrovol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConstDobrovol&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
