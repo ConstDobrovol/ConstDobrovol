@@ -1,14 +1,14 @@
 Hi 👋 My name is Konstantin Dobrovolskiy
 ========================================
 
-Backend developer Python from Russia
+Data Engineer from Russia
 ------------------------------------
 
-I’m studying as a Software Engineer and contributing to frontend and backend for building web applications. In my free time I exploring new technical, I solve problems on Codewars and read tech articles.
+In my free time I exploring new technical, I solve problems on Codewars or LeetCode and read tech articles.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-constdobrovol-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/constdobrovol) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:constdobrovol@mail.com)
-* 🧠  I'm learning Django, SQL, C , BASH, FastAPI
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-constdobrovol-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dcbrcvcl) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:constdobrovol@mail.com)
+* 🧠  I'm learning Airflow, PosgreSQL
   
 <a href="https://www.github.com/ConstDobrovol" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ConstDobrovol?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
